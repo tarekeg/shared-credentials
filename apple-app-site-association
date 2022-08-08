@@ -1,0 +1,10 @@
+{
+  "applinks": {
+      "details": [
+      {
+        "appID": "LATFQ2CT64.com.backbase.start",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
