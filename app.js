@@ -7,8 +7,8 @@ app.get("", (req, res) => {
 });
 
 
-app.get('/.well-known/apple-app-site-association', function(request, response) {
-  response.sendFile(__dirname +  '/apple-app-site-association');
+app.get('/apple-app-site-association', function(request, response) {
+  response.sendFile("/apple-app-site-association");
 });
 
 app.listen(PORT, () => {
