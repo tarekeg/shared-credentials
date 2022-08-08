@@ -8,7 +8,8 @@ app.get("", (req, res) => {
 
 
 app.get('/apple-app-site-association', function(request, response) {
-  response.sendFile(__dirname +  'apple-app-site-association');
+  console.log('trying to download')
+  response.sendFile('./apple-app-site-association');
 });
 
 app.listen(PORT, () => {
