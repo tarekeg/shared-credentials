@@ -3,14 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "LATFQ2CT64.com.tarek.Test-Credentials",
+        "appID": "LATFQ2CT64.com.backbase.tarek",
         "paths": [ "*" ]
       }
     ]
   },
   "webcredentials": {
       "apps": [
-        "LATFQ2CT64.com.tarek.Test-Credentials"
+        "LATFQ2CT64.com.backbase.tarek"
       ]
   }
 }
