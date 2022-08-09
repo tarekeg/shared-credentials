@@ -1,10 +1,5 @@
 {
-  "applinks": {
-      "details": [
-      {
-        "appID": "LATFQ2CT64.com.tarek.Test-Credentials",
-        "paths": ["*"]
-      }
-    ]
-  }
+  "webcredentials": {
+      "apps": ["LATFQ2CT64.com.tarek.Test-Credentials"]
+   }
 }
